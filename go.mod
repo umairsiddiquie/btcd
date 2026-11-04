@@ -18,7 +18,7 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 	golang.org/x/crypto v0.25.0
-	golang.org/x/sys v0.22.0
+	golang.org/x/sys v0.49.0
 	pgregory.net/rapid v1.2.0
 )
 
@@ -65,4 +65,4 @@ retract (
 	v0.13.0-beta
 )
 
-go 1.23.2
+go 1.26.0
